@@ -1,5 +1,5 @@
 alert("Hello my script");
-console.log("Hello!!!");
+console.log("Hello JS!!!");
 let titleNew;
 let screensNew;
 let screenPrice;
